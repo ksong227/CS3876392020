@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Menu Project</string>
+    //menu
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+    /buttons
+    <string name="sms">SMS</string>
+    <string name="phone">Phone</string>
+    <string name="web">Web</string>
+    <string name="map">Map</string>
+    <string name="share">Share</string>
+    <string name="newAct">New Act</string>
+    //textView
+    <string name="newActTxt">Hello Kevin Song!</string>
+    <string name="helpTxt"><b>=Help=</b>\n\n
+        <b>SMS:</b> Prepares a text message for phone number 1234567890\n\n
+        <b>Phone:</b> Prepares to dial phone number 1234567890\n\n
+        <b>Web:</b> Opens the Github main page in web browser of choice\n\n
+        <b>Map:</b> Locates the Odaiba Gundam statue in map viewer of choice\n\n
+        <b>Share:</b> Prepares an email message and opens App chooser\n\n
+        <b>New Act:</b> Opens a new activity with a message
+    </string>
+</resources>
