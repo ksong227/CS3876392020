@@ -22,8 +22,8 @@ public class MainActivity extends AppCompatActivity {
         final TextView output;
 
         //set views
-        input = findViewById(R.id.editText);
-        output = findViewById(R.id.textView);
+        input = findViewById(R.id.editText_input);
+        output = findViewById(R.id.textView_output);
         button = findViewById(R.id.button);
 
         button.setOnClickListener(new View.OnClickListener() {
